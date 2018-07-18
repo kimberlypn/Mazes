@@ -15,21 +15,28 @@ pink square in the bottom-right corner. You navigate your player using the arrow
 keys. If you want to generate a different maze to play, you can press "R" to
 reset the game. If you want to solve the maze using depth-first search (DFS),
 press "D". As you move, your path will be highlighted in light green.
+
 ![Highlighted green path](Screenshots/midplay.png)
 
 Similarly, if you choose to have the maze solved for you, the path of the search
 will be highlighted in light blue.
+
 ![Highlighted blue path](Screenshots/dfs.png)
 
+## How to Change Map Dimensions
 The maze can be resized by changing the `MAZE_HEIGHT` and `MAZE_WIDTH` variables
 in the `Maze` class.
+
 ![10x20 maze](Screenshots/maze_10x20.png)
+
 *Example 10x20 Maze*
 
 ![50x80 maze](Screenshots/maze_50x80.png)
+
 *Example 50x80 Maze*
 
 ![100x100 maze](Screenshots/maze_100x100.png)
+
 *Example 100x100 Maze*
 
 ## Classes/Methods
