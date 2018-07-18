@@ -14,7 +14,9 @@ You are the green square in the top-left corner. The objective is to reach the
 pink square in the bottom-right corner. You navigate your player using the arrow
 keys. If you want to generate a different maze to play, you can press "R" to
 reset the game. If you want to solve the maze using depth-first search (DFS),
-press "D". As you move, your path will be highlighted in light green.
+press "D". 
+
+As you move, your path will be highlighted in light green.
 
 ![Highlighted green path](Screenshots/midplay.png)
 
